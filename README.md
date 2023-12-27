@@ -54,6 +54,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/chaturrrrr"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" width="350" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaturrved&show_icons=true&locale=en&layout=compact" alt="chaturrved" /></p>
+<p><img align="left" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaturrved&exclude_repo=PollsRemastered&layout=compact)" alt="chaturrved" height /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chaturrved&show_icons=true&locale=en" alt="chaturrved" width="350" /></p>
