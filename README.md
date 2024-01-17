@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **kapus.dev@gmail.com**
 
-- 📄 Know about my experiences [LINK](https://drive.google.com/file/d/1Aymqa0iSdI8cIVK7Kvlaa6IQ_BxfUV33/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
