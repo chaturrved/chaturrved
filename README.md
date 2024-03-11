@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/chaturrved" target="blank"><img src="https://img.shields.io/twitter/follow/chaturrved?logo=twitter&style=for-the-badge" alt="chaturrved" /></a> </p>
 
-- 🌱 I’m currently learning **NestJS, AWS & Golang**
+- 🌱 I’m currently learning **Zig, Rust & Golang**
 
-- 💬 Ask me about **Angular, Python, Typescript**
+- 💬 Ask me about **Angular, Python, Typescript, Java, React, NestJS, NextJS**
 
 - 📫 How to reach me **kapus.dev@gmail.com**
 
@@ -33,11 +33,11 @@
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="background-color: white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" /> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img style="background-color: white;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
+    <a href="https://angularjs.org" target="_blank" rel="noreferrer"> <img style="background-color: white;" src="https://angularjs.org/favicon.ico" alt="angularjs" width="40" height="40" /> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img style="background-color: white;"  src="https://nodejs.org/static/images/favicons/favicon.png" alt="nodejs" width="40" height="40" /> </a>
     <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/img/favicons/favicon.ico" alt="bootstrap" width="40" height="40" /> </a>
 </p>
 
 <h3 align="left">Database & Tools:</h3>
